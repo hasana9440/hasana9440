@@ -1,7 +1,7 @@
 # 👋 Hello! I'm Shaik Hasan Ahammad
 
-**Project Engineer** | Full-Stack Developer | Java & Spring Boot Specialist  
-📍 Based in India | 💼 Passionate about building scalable solutions
+**Project Engineer** | Full-Stack Developer | Java & Spring Boot  
+📍 Based in Bangalore | 💼 Passionate about building scalable solutions
 
 ---
 
