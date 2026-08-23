@@ -36,24 +36,6 @@ My mission is to deliver **high-quality software** that solves real-world proble
 
 ---
 
-## 💻 Tech Stack
-
-### Languages
-![Java]
-![Python]
-![TypeScript]
-![JavaScript]
-
-### Frameworks & Libraries
-![Spring Boot]
-![Angular]
-![Spring]
-
-### Databases
-![MySQL]
-
----
-
 ## 🎯 Professional Strengths
 
 - 🔧 **Problem Solver** - Breaking down complex challenges into elegant solutions
@@ -64,7 +46,6 @@ My mission is to deliver **high-quality software** that solves real-world proble
 - 📈 **Performance-Focused** - Optimizing applications for speed and efficiency
 
 ---
-
 
 ## 🔗 Connect With Me
 
